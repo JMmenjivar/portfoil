@@ -1,0 +1,47 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+body {
+    background: white;
+    text-align: center;
+}
+
+img {
+    border:10px black solid;
+   
+}
+
+
+
+h2 {
+    border: 11px black solid;
+    padding: 60px;
+}
+
+p {
+    color: blue;
+    font-size: 45px;
+}
+
+#pictures {
+    display: flex;
+    justify-content: center;
+}
+
+
+}
+
+#pictures {}
+
+title {
+    font-size: 34px;
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+}

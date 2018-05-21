@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="stylesheet.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+</head>
+
+<body>
+    <p id="my-reply"></p>
+    <p id="homers-reply"></p>
+    <img id="texas" src="https://twu.edu/media/images/marketing-communication/TWU-snapchat-ghost-new-300px.jpg">
+    <p id="color"></p>
+
+    <button id="hidemeButton"> hide me </button>
+    <button id="showmeButton">show me </button>
+    <button id="button"</button></button>
+    
+    
+    <script type="text/javascript">
+    
+    
+        $("#showmeButton").click(function() {
+            $("#texas").show();
+        });
+ $("#showmeButton").click(function() {
+            
+            $("#texas").show();
+            $("#my-reply").text("oops");
+            
+        });
+        $("#hidemeButton").click(function() {
+            $("#texas").hide();
+            $("#my-reply").text("oops!");
+        })
+        
+    </script>
+
+</body>
+
+</html>
