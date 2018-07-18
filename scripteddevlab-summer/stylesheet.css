@@ -1,0 +1,49 @@
+.row{   
+
+    background-color:pink ;
+    color:white;
+    font-size:39px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:purple;
+    color:white ;
+    align-items:center;
+    font-size:20px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px purple;   
+    
+}
+
+.headshot{
+    width:300px;
+   
+  
+}
+
+.footer{
+   display:flex;
+   font-size:24px;
+   justify-content: space-around;
+   
+   
+}
+.iteam{
+    border:1px solid white;
+    padding:6px;
+    border-radius:5px;
+    
+}
+
+.large{
+width: 100px;
+}
