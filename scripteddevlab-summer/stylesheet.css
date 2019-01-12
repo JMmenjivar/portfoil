@@ -1,7 +1,7 @@
 .row{   
 
     background-color:pink ;
-    color:white;
+    
     font-size:39px;
     display:flex;
     flex-wrap:wrap;
@@ -46,4 +46,8 @@
 
 .large{
 width: 100px;
+}
+
+.img {
+ width: 70px;   
 }
